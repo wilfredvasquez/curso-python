@@ -1,0 +1,7 @@
+# Modos de apertura
+'r' -> Leer un archivo
+'w' -> Escribir en un archivo (Sobreescribe el contenido)
+'a' -> Agregar un contenido al final del archivo
+'r+' -> Leer y escribir el archivo.
+Bienvenidos
+Código que Transforma
